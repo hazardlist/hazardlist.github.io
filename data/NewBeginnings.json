@@ -9,7 +9,16 @@
     "password": "Copyable",
     "records": [
         {
-
+            "user": "bananarabbit",
+            "link": "",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "lowtaperdash",
+            "link": "",
+            "percent": 100,
+            "hz":240
         }
     ]
 }

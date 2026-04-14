@@ -10,15 +10,21 @@
     "records": [
         {
             "user": "bananarabbit",
-            "link": "",
+            "link": "https://youtu.be/-kbd6SKLm6U",
             "percent": 100,
             "hz": 240
         },
         {
             "user": "lowtaperdash",
-            "link": "",
+            "link": "https://youtu.be/um2f3RfmKFs",
             "percent": 100,
-            "hz":240
+            "hz":75
+        }.
+        {
+            "user": "tabby",
+            "link": "https://youtu.be/SEqkDsuwzbs",
+            "percent": 100,
+            "hz":270
         }
     ]
 }

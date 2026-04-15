@@ -5,6 +5,8 @@
     "creators": ["monstafax"],
     "verifier": "monstafax",
     "verification": "https://youtu.be/SaRq4zN2GSg",
+    "percentToQualify": 100,
+    "password": "Copyable",
     "records": [
        
     ]

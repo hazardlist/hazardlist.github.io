@@ -8,11 +8,11 @@
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
-       {
+        {
             "user": "verseorvoid",
             "link": "https://youtu.be/XVfE4Cx_IVk",
             "percent": 100,
             "hz": 240
-       }
+        }
     ]
 }

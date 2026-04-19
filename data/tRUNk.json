@@ -13,6 +13,24 @@
             "link": "https://youtu.be/XVfE4Cx_IVk",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://youtu.be/uCMbPdJE-rs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby",
+            "link": "https://youtu.be/b4fhVtT_vYA",
+            "percent": 100,
+            "hz":280
+        },
+        {
+            "user": "darknessterminology",
+            "link": "https://www.youtube.com/watch?v=s6KeiIK2Tl0",
+            "percent": 100,
+            "hz":280
         }
     ]
 }

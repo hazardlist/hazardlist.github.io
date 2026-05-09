@@ -31,6 +31,12 @@
             "link": "https://youtu.be/DPrXrL4furM",
             "percent": 100,
             "hz":60
+        },
+        {
+            "user": "Blahaj",
+            "link": "https://www.youtube.com/watch?v=oT_PXn1spJs",
+            "percent": 100,
+            "hz":120
         }
     ]
 }
